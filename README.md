@@ -1,1 +1,3 @@
 # KhanAcademy-Clone
+# Steps to Run Project:
+# step 1 ........
